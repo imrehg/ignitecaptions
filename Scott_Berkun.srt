@@ -1,0 +1,530 @@
+1
+00:00:08,000 --> 00:00:10,500
+Hello everybody, Andrew Hyde with Ignite Boulder,
+
+2
+00:00:10,600 --> 00:00:12,200
+wanted to welcome you to this week show
+
+3
+00:00:12,300 --> 00:00:15,200
+and also introduce Scott Berkun from Ignite Seattle
+
+4
+00:00:15,300 --> 00:00:17,550
+talking about how to give an Ignite presentation.
+
+5
+00:00:17,650 --> 00:00:18,650
+It's fantastic.
+
+6
+00:00:18,750 --> 00:00:22,200
+If you haven't given an Ignite presentation
+this is your inspiration to do it.
+
+7
+00:00:22,400 --> 00:00:25,650
+If you have, this is how to get better. Enjoy!
+
+8
+00:00:28,000 --> 00:00:31,000
+Ignite is an ongoing series of speedy presentations.
+
+9
+00:00:31,100 --> 00:00:34,100
+They range from building multi-person pogo sticks
+to hacking chocolate.
+
+10
+00:00:34,200 --> 00:00:35,700
+Any topic the geeks hold dear.
+
+11
+00:00:35,800 --> 00:00:37,700
+Each speaker gets only five minutes,
+
+12
+00:00:37,800 --> 00:00:40,800
+and twenty slides that auto-advance every fifteen seconds.
+
+13
+00:00:42,000 --> 00:00:44,400
+The talk you are about to hear was recorded live
+
+14
+00:00:44,500 --> 00:00:47,000
+at one of the featured Ignite events around the world.
+
+15
+00:00:55,220 --> 00:00:58,300
+I think storytelling is everything.
+
+16
+00:00:58,400 --> 00:00:59,700
+It is everything!
+
+17
+00:00:59,800 --> 00:01:02,780
+It's the most important thing that we do,
+it's the most important thing that we are.
+
+18
+00:01:02,880 --> 00:01:06,500
+And if you go about thinking about life
+in the perspective that storytelling is everything
+
+19
+00:01:06,600 --> 00:01:09,300
+then doing things like public speaking or writing or talking
+
+20
+00:01:09,400 --> 00:01:11,900
+or starting a relationship all become a lot simpler.
+
+21
+00:01:11,980 --> 00:01:15,100
+Storytelling happens to be a universal thing, it is a timeless thing,
+
+22
+00:01:15,259 --> 00:01:18,000
+it's something we have done as long as we have been a species,
+
+23
+00:01:18,100 --> 00:01:20,740
+as long as we've been cultures and tribes and governments
+
+24
+00:01:20,740 --> 00:01:21,930
+we've been storytellers.
+
+25
+00:01:21,930 --> 00:01:26,150
+And in effect we align ourselves,
+the people we bond with, we have shared stories,
+
+26
+00:01:26,150 --> 00:01:28,550
+that we often tell again and again with each other.
+
+27
+00:01:28,550 --> 00:01:32,600
+So storytelling is something we all do all the time,
+and we are all good at it.
+
+28
+00:01:32,700 --> 00:01:35,100
+Any community you're in, any club you join,
+
+29
+00:01:35,200 --> 00:01:38,600
+any team you root for, there's a set of stories you all share.
+
+30
+00:01:38,740 --> 00:01:42,500
+So when it comes to doing an Ignite talk,
+you guys already have stories
+
+31
+00:01:42,600 --> 00:01:46,300
+and you are already good at telling them,
+because that's why you are alive.
+
+32
+00:01:46,390 --> 00:01:49,400
+Now, when it comes to doing a talk like this, do in this format
+
+33
+00:01:49,500 --> 00:01:52,400
+you have to be a little bit more concise
+in the kinds of stories you tell.
+
+34
+00:01:52,500 --> 00:01:54,450
+There's three piles of stories to think about.
+
+35
+00:01:54,550 --> 00:01:57,830
+The first is what you love, what gets you excited.
+
+36
+00:01:57,900 --> 00:02:04,600
+Now I know for a fact that all of you
+did not commit suicide today. You're here.
+
+37
+00:02:04,600 --> 00:02:05,600
+Why?
+
+38
+00:02:05,470 --> 00:02:08,389
+What is it that gets you up in the morning,
+what gets you going?
+
+39
+00:02:08,389 --> 00:02:12,400
+On the other end the spectrum there's what you hate,
+what makes you angry.
+
+40
+00:02:12,500 --> 00:02:14,360
+What would you remove from the world if you could?
+
+41
+00:02:14,360 --> 00:02:16,209
+Also a place for passion!
+
+42
+00:02:16,209 --> 00:02:18,000
+You can be passionate about what you hate.
+
+43
+00:02:18,100 --> 00:02:21,000
+Because in fact if you think about enough of
+what you hate and flip it over
+
+44
+00:02:21,100 --> 00:02:23,099
+you probably have something you should be loving more.
+
+45
+00:02:23,199 --> 00:02:25,800
+It's a trick involved what you love and what you hate.
+
+46
+00:02:25,900 --> 00:02:27,900
+The third pile of stuff is what you good at.
+
+47
+00:02:27,959 --> 00:02:30,400
+What have you been doing for five years or ten years
+
+48
+00:02:30,500 --> 00:02:32,300
+and you finally have some kind of insight
+
+49
+00:02:32,400 --> 00:02:35,119
+that you wish someone have told you when you started.
+
+50
+00:02:35,219 --> 00:02:37,200
+That's money, that so powerful,
+
+51
+00:02:37,300 --> 00:02:41,500
+that's the most important powerful kinda story
+you can tell in a crazy format like this.
+
+52
+00:02:41,600 --> 00:02:43,400
+And if you have none of these three things,
+
+53
+00:02:43,400 --> 00:02:45,190
+then your job is a metastory.
+
+54
+00:02:45,190 --> 00:02:49,660
+You need to do things outside of this format
+that will give you opportunities to tell stories about.
+
+55
+00:02:49,760 --> 00:02:52,620
+And if you fail that, then you get a metastory
+
+56
+00:02:52,620 --> 00:02:55,400
+about the story how you tried to find
+a story to tell but you failed.
+
+57
+00:02:55,500 --> 00:02:57,300
+That's also a story.
+
+58
+00:02:57,400 --> 00:02:58,200
+Now.
+
+59
+00:02:58,719 --> 00:03:00,800
+When it comes to this format people get freaked out about
+
+60
+00:03:00,900 --> 00:03:02,300
+"i got to tell my story up on stage"
+
+61
+00:03:02,400 --> 00:03:04,300
+and now there's a whole of dynamic of public speaking
+
+62
+00:03:04,400 --> 00:03:08,300
+What you should know, there's lots of famous public speakers
+that are actually lousy speakers.
+
+63
+00:03:08,400 --> 00:03:12,210
+People like Cicero, Moses, and this guy, Lincoln.
+
+64
+00:03:12,210 --> 00:03:14,700
+They're probably actually not very pleasant to listen to.
+
+65
+00:03:14,800 --> 00:03:17,000
+Its stutters, high-pitched voices,
+
+66
+00:03:17,100 --> 00:03:21,200
+but what they said was interesting,
+they told stories that they refined
+
+67
+00:03:21,200 --> 00:03:23,229
+they made really clear where their points were.
+
+68
+00:03:23,229 --> 00:03:26,599
+so people paid more attention of the ideas
+and how it's actually said,
+
+69
+00:03:26,599 --> 00:03:27,919
+which is true today.
+
+70
+00:03:27,919 --> 00:03:31,700
+And in fact, in fact the other thing be worry
+about is the time limit.
+
+71
+00:03:31,800 --> 00:03:34,709
+The Gettysburg Address is only about two minutes long to read.
+
+72
+00:03:34,709 --> 00:03:38,079
+You could do two Gettysburg Addresses in one Ignite.
+
+73
+00:03:38,079 --> 00:03:42,150
+So you have no worries about how long...
+"Yo, I cannot fit into..." Yes you can, you can fit it in.
+
+74
+00:03:42,150 --> 00:03:46,400
+Now the other fear people have has to do with the fact
+that the slides move on their own.
+
+75
+00:03:46,500 --> 00:03:48,600
+There's this Grim Reaper looming overhead,
+
+76
+00:03:48,700 --> 00:03:52,400
+and every moment it's gonna come like a Terminator
+it's gonna knock me into the next thing.
+
+77
+00:03:52,500 --> 00:03:54,079
+People are terrified about this.
+
+78
+00:03:54,079 --> 00:03:55,709
+I happen to think it's kind of funny.
+
+79
+00:03:55,709 --> 00:03:59,109
+I think it's kind of funny in the same way
+we worry about things that we can't control.
+
+80
+00:03:59,109 --> 00:04:01,309
+You have two choices for things you can't control.
+
+81
+00:04:01,309 --> 00:04:04,830
+You can be paranoid about them, deny them, 
+or you can revel in them.
+
+82
+00:04:04,830 --> 00:04:07,200
+And i think it's a perfect format, 
+you guys know know it's coming,
+
+83
+00:04:07,200 --> 00:04:08,559
+it's part of the entertainment.
+
+84
+00:04:08,559 --> 00:04:10,100
+They're all gonna expect to have happen,
+
+85
+00:04:10,200 --> 00:04:12,900
+and we can make it a joyful experience coming from it, right?
+
+86
+00:04:13,000 --> 00:04:15,100
+You guys gonna support me if I screw up this slide?
+
+87
+00:04:15,200 --> 00:04:18,569
+Right? You guys are with me? Right, thank you, alright.
+
+88
+00:04:18,569 --> 00:04:22,000
+So Ignite audiences happens to be some of
+the best audience to speak to
+
+89
+00:04:22,100 --> 00:04:25,489
+'coz you guys are on my side. You might be
+drunk and that may help a little bit,
+
+90
+00:04:25,489 --> 00:04:28,000
+but you're on my side, you'll back me
+if I make a mistake.
+
+91
+00:04:28,100 --> 00:04:32,360
+So if you wanna try out public speaking
+you gonna get good, positive audiences in this environment.
+
+92
+00:04:32,360 --> 00:04:36,199
+Now the last thing, this is the more practical portion of
+my five minutes: how to use time.
+
+93
+00:04:36,199 --> 00:04:39,819
+It's a philosophical question, but a
+practical question for these five minutes.
+
+94
+00:04:39,819 --> 00:04:43,050
+You only have time to say four or five things,
+
+95
+00:04:43,050 --> 00:04:44,999
+so, you'll wanna be really careful what they are.
+
+96
+00:04:44,999 --> 00:04:47,169
+You can't fit that much more into five minutes.
+
+97
+00:04:47,169 --> 00:04:48,700
+So think about that before you get started.
+
+98
+00:04:48,800 --> 00:04:52,400
+The second thing is that you'll gonna lose your
+first slide and your last slide.
+
+99
+00:04:52,500 --> 00:04:54,999
+Due to applause, people throwing things at you,
+
+100
+00:04:55,099 --> 00:04:57,100
+your introduction, you gonna blow those.
+
+101
+00:04:57,200 --> 00:05:01,749
+So you gonna practice and plan for having
+less time than even the twenty slides that you get.
+
+102
+00:05:01,749 --> 00:05:03,699
+Now the last thing is a little trickier.
+
+103
+00:05:03,699 --> 00:05:07,400
+People's get up here and they go into full-speed mode,
+they're talking like auctioneers on crack.
+
+104
+00:05:07,700 --> 00:05:10,300
+Going really fast.
+You don't have to do that if you don't want to.
+
+105
+00:05:10,400 --> 00:05:13,100
+So look into the upper right hand corner of this slide.
+
+106
+00:05:13,200 --> 00:05:16,900
+In a second you'll see a little mark appear,
+a little cigarett burn mark
+
+107
+00:05:16,900 --> 00:05:21,509
+I've now have put the same image
+on two consecutive slides.
+
+108
+00:05:21,509 --> 00:05:24,200
+This is a legal, it is allowed.
+
+109
+00:05:24,300 --> 00:05:27,349
+You can hack the format as much as you want.
+
+110
+00:05:27,349 --> 00:05:29,529
+A slide is a....
+
+111
+00:05:29,529 --> 00:05:32,400
+We don't use slides anymore, the whole notion
+of slides is a kind of ridiculous,
+
+112
+00:05:32,500 --> 00:05:34,230
+So hack it to tell your story.
+
+113
+00:05:34,330 --> 00:05:35,560
+The last thing:
+
+114
+00:05:35,560 --> 00:05:40,979
+if you are working with four, five minutes of time
+you can rehearse and practice ten times in an hour.
+
+115
+00:05:40,979 --> 00:05:44,600
+Now I recommend you do it at least once
+before you make any slides at all.
+
+116
+00:05:44,600 --> 00:05:47,100
+Just so that you can figure out what your points are,
+what you wanna say.
+
+117
+00:05:47,200 --> 00:05:49,960
+And as you practice you build the material
+and back fill it in.
+
+118
+00:05:49,960 --> 00:05:52,700
+So to sum up, all of you have a story to tell,
+and you are good at it.
+
+119
+00:05:52,800 --> 00:05:55,800
+Second, don't worry about the Grim Reaper,
+you can hack around that.
+
+120
+00:05:55,900 --> 00:05:57,700
+And third, practice is everything.
+
+121
+00:05:57,800 --> 00:06:04,799
+And I hope to see you guys, up here, next time.
+Thank you.
+

@@ -1,434 +1,377 @@
 1
-00:00:06,470 --> 00:00:12,299
-maggie everyone well that's a great to
-have a invented a ten-day set of at your
+00:00:06,400 --> 00:00:08,200
+Hello and good evening everyone.
 
 2
-00:00:12,299 --> 00:00:16,430
-house the night and i a m last major on
-today
+00:00:08,300 --> 00:00:11,300
+Welcome to Ignite Taipei event three tonight.
 
 3
-00:00:16,430 --> 00:00:22,150
-corrected
+00:00:11,400 --> 00:00:13,500
+So I'm your host tonight, Amber.
 
 4
-00:00:22,150 --> 00:00:24,600
-accel and
+00:00:13,600 --> 00:00:16,200
+I'm glad to meet you all today.
 
 5
-00:00:24,600 --> 00:00:29,779
-i mean it's a date because i've got a
-call from t_v_ last week she invited me
+00:00:16,300 --> 00:00:18,300
+[so, Greg, could you please]
 
 6
-00:00:29,779 --> 00:00:32,770
-to be here today so i'm hosting busy
-today
+00:00:22,150 --> 00:00:24,500
+Alright, so...
 
 7
-00:00:32,770 --> 00:00:37,680
-so i'm not always wanted to and succumb
-to date nights and see
+00:00:24,600 --> 00:00:29,000
+I'm here today because I got a call from Tifi last week,
 
 8
-00:00:37,680 --> 00:00:40,460
-like this evening as part of a really
-wanna see d
+00:00:29,100 --> 00:00:32,720
+she invited me to be here today,
+so I'm hosting this event today.
 
 9
-00:00:40,460 --> 00:00:45,159
-mysterious people let you guys and i'm
-the mysterious ideas you got for us
+00:00:32,820 --> 00:00:38,700
+So I've always wanted to come to the Ignite
+and see what this event is for.
 
 10
-00:00:45,159 --> 00:00:46,640
-so um...
+00:00:38,800 --> 00:00:42,600
+So I really want to see mysterious people, like you guys,
 
 11
-00:00:46,640 --> 00:00:50,240
-before i get my talk i would like to
-remind all of you that we are very
+00:00:42,700 --> 00:00:45,059
+and then the mysterious ideas you've got for us.
 
 12
-00:00:50,240 --> 00:00:54,000
-special because we all are and five p
+00:00:45,159 --> 00:00:46,590
+So um...
 
 13
-00:00:54,000 --> 00:00:58,920
-where not only the at the we have m_i_t_
-because each opposes
+00:00:46,690 --> 00:00:49,200
+Before my talk I would like to remind all of you
 
 14
-00:00:58,920 --> 00:01:01,770
-most important person epithets
+00:00:49,300 --> 00:00:53,950
+that we are very special, because we all are MIP.
 
 15
-00:01:01,770 --> 00:01:07,750
-one of their most important person as
-because uh... each of us has a magnified
+00:00:54,050 --> 00:01:01,500
+Where not only VIP, we are MIP, because
+each of us is most important person.
 
 16
-00:01:07,750 --> 00:01:09,170
-in hand so
+00:01:01,770 --> 00:01:05,100
+Why we are most important persons is because
 
 17
-00:01:09,170 --> 00:01:14,600
-and even some of us have more so i a m
-the magnifiers enables us to uh...
+00:01:05,200 --> 00:01:09,120
+each of us has a magnifier in hand
 
 18
-00:01:14,600 --> 00:01:18,260
-seeking think very detailed and very
-curious about
+00:01:09,220 --> 00:01:14,550
+and even some of us have more,
+so the magnifier enables us to
 
 19
-00:01:18,260 --> 00:01:20,159
-everything on this planet
+00:01:14,650 --> 00:01:18,100
+to see things in gooder detail,
+and we are very curious about
 
 20
-00:01:20,159 --> 00:01:21,650
-celeron
+00:01:18,200 --> 00:01:20,200
+everything on this planet.
 
 21
-00:01:21,650 --> 00:01:26,420
-weeknight urs have very curious to know
-we have the night at magnifier
+00:01:20,300 --> 00:01:21,600
+So...
 
 22
-00:01:26,420 --> 00:01:31,090
-and then we are looking for a new ideas
-in this year
+00:01:21,700 --> 00:01:26,370
+We Igniters are very curious, so we have Ignite... magnifier...
 
 23
-00:01:31,090 --> 00:01:34,520
-and then so
+00:01:26,470 --> 00:01:31,040
+and then we are looking for a new ideas on this Earth.
 
 24
-00:01:34,520 --> 00:01:35,390
-so
+00:01:31,140 --> 00:01:34,470
+And then so...
 
 25
-00:01:35,390 --> 00:01:40,560
-and so when we had the magnifier we look
-for ideas so weak matters have
+00:01:34,570 --> 00:01:35,340
+So...
 
 26
-00:01:40,560 --> 00:01:42,810
-passionate supreme your ideas and then
+00:01:35,440 --> 00:01:39,500
+And so when we had the magnifier we look for ideas,
 
 27
-00:01:42,810 --> 00:01:47,480
-once the new ideas recreate something
-new ourselves
+00:01:39,600 --> 00:01:42,760
+so we Igniters are passionate to find new ideas and then
 
 28
-00:01:47,480 --> 00:01:48,639
-so
+00:01:42,860 --> 00:01:47,430
+Once we have new ideas, we create something new, ourselves.
 
 29
-00:01:48,639 --> 00:01:53,599
-we were hungry for something and then we
-get for thank just and then we create
+00:01:47,530 --> 00:01:48,589
+So...
 
 30
-00:01:53,599 --> 00:01:55,390
-something you are
+00:01:48,689 --> 00:01:52,500
+We were hungry for something and then we get full, we digest
 
 31
-00:01:55,390 --> 00:01:58,130
-so retailers have very
+00:01:52,600 --> 00:01:55,340
+and then we create something new on our own.
 
 32
-00:01:58,130 --> 00:02:02,010
-we have a lot of innovations and then we
-have new ideas and then
+00:01:55,440 --> 00:01:58,080
+So we Igniters are very...
 
 33
-00:02:02,010 --> 00:02:04,840
-once we have those in hands we are
+00:01:58,180 --> 00:02:01,960
+We have a lot of innovations
+and then we have new ideas and then
 
 34
-00:02:04,840 --> 00:02:06,869
-passionate to share
+00:02:02,060 --> 00:02:06,819
+once we have those in hands we are passionate to share
 
 35
-00:02:06,869 --> 00:02:07,980
+00:02:06,919 --> 00:02:07,930
 so
 
 36
-00:02:07,980 --> 00:02:12,910
-passing makes is very important person
-so and so what you guys you fall in
+00:02:08,030 --> 00:02:10,700
+Passion makes us very important person, so...
 
 37
-00:02:12,910 --> 00:02:16,309
-tickets hot at ignites happy like to
-make
+00:02:10,800 --> 00:02:16,259
+So like you guys, you volunteered
+to talk at Ignite Taipei, like tonight.
 
 38
-00:02:16,309 --> 00:02:17,129
-and then so
+00:02:16,359 --> 00:02:19,700
+And then so, if we enjoy our time tonight, and if we like,
 
 39
-00:02:17,129 --> 00:02:20,640
-no even into a hard time tonight in
-deeply and i commend with volunteer
+00:02:19,800 --> 00:02:22,259
+then we volunteer again at the next event.
 
 40
-00:02:20,640 --> 00:02:22,309
-again the next experience
+00:02:22,359 --> 00:02:24,400
+So i like to remind all of you that
 
 41
-00:02:22,309 --> 00:02:24,510
-so i like to remind all of you that
+00:02:24,500 --> 00:02:28,359
+we are just like this little green doll, we are all MIP Igniters.
 
 42
-00:02:24,510 --> 00:02:28,409
-places like this little green belt where
-all m_i_t_ it matters
+00:02:28,459 --> 00:02:32,749
+and then so maybe... so what is the
+difference, what are the differences
 
 43
-00:02:28,409 --> 00:02:32,799
-and then sell maybe uh... so what is the
-difference what are the differences
+00:02:32,849 --> 00:02:36,909
+between we Igniters and teddy bears from TED.
 
 44
-00:02:32,799 --> 00:02:35,209
-between we did not his and
-
-45
-00:02:35,209 --> 00:02:36,959
-teddy bears from texas
-
-46
-00:02:36,959 --> 00:02:42,830
-so tak well since we are we both get
+00:02:37,009 --> 00:02:42,780
+So TED, well since we are, we both give
 free talks to the world so
 
+45
+00:02:42,880 --> 00:02:48,359
+what makes the biggest difference between us is that TED...
+
+46
+00:02:48,459 --> 00:02:52,500
+is that um... we ourselves make a big difference
+
 47
-00:02:42,830 --> 00:02:48,409
-one meets the biggest difference the
-entertainers is that uh...
+00:02:52,600 --> 00:02:56,200
+because TED only invites some remarkable people to talk
 
 48
-00:02:48,409 --> 00:02:51,949
-is that um... we ourselves
+00:02:56,300 --> 00:02:58,559
+and they're like big figures in the world, but
 
 49
-00:02:51,949 --> 00:02:54,510
-a big difference because not only by
-some
+00:02:58,659 --> 00:03:02,859
+well here at Ignite, I'm not saying we are small but
 
 50
-00:02:54,510 --> 00:02:58,609
-remarkable people to talk and the like
-defeated in the world class
+00:03:02,959 --> 00:03:07,559
+Ignite allows anyone who has an idea to talk.
 
 51
-00:02:58,609 --> 00:03:02,909
-well here at nights i'm nothing with
-small class time
-
-52
-00:03:02,909 --> 00:03:07,609
-ignite allows anyone who hasn't idea
-tata
-
-53
-00:03:07,609 --> 00:03:08,709
+00:03:07,659 --> 00:03:08,659
 so
 
+52
+00:03:08,759 --> 00:03:12,389
+That's the teddy bear and we Igniters are very special.
+
+53
+00:03:12,489 --> 00:03:15,700
+So uh... I think the second difference
+
 54
-00:03:08,709 --> 00:03:12,439
-that's the teddy bear and witness
-professor tough
+00:03:15,800 --> 00:03:19,600
+that makes this different is the languages we use.
 
 55
-00:03:12,439 --> 00:03:17,749
-so uh... i think the second difference
-that makes this different as p m
+00:03:19,700 --> 00:03:21,369
+So um...
 
 56
-00:03:17,749 --> 00:03:19,650
-the language as the years
+00:03:21,469 --> 00:03:25,800
+If you go online and you watch TED event videos
 
 57
-00:03:19,650 --> 00:03:21,419
-so um...
+00:03:25,900 --> 00:03:27,293
+then you hear people talk in English,
 
 58
-00:03:21,419 --> 00:03:26,639
-issue of caroline in your life she
-contact event the instantaneous buffet
+00:03:27,393 --> 00:03:29,099
+they only have subtitles for other languages,
 
 59
-00:03:26,639 --> 00:03:29,769
-in english they only have spent for
-other languages but
+00:03:29,200 --> 00:03:31,469
+but mostly they use English.
 
 60
-00:03:29,769 --> 00:03:31,519
-mostly they use interest
+00:03:31,569 --> 00:03:34,039
+but here we are all very very lucky,
 
 61
-00:03:31,519 --> 00:03:36,729
-but here we are all fairy tale lucky
-because in ignites heavy here we have
+00:03:34,139 --> 00:03:37,235
+because in Ignites happening here, we have
 
 62
-00:03:36,729 --> 00:03:37,519
-them
+00:03:37,335 --> 00:03:39,158
+both English and Chinese.
 
 63
-00:03:37,519 --> 00:03:39,209
-bug interest in chinese
+00:03:39,259 --> 00:03:43,100
+so it is very great that we can actually learn something
 
 64
-00:03:39,209 --> 00:03:43,500
-so it is ferry create that we can
-actually there is something else you
+00:03:43,200 --> 00:03:46,029
+in two different languages that's very very great!
 
 65
-00:03:43,500 --> 00:03:46,079
-different languages that's very frankly
+00:03:46,129 --> 00:03:52,600
+and so the last difference inbetween us would be: format.
 
 66
-00:03:46,079 --> 00:03:50,129
-and so and the last day of friends
-inputting anne's
+00:03:52,600 --> 00:03:58,500
+As we all know a TED teddy bear is allowed
+to speak for eighteen minutes,
 
 67
-00:03:50,129 --> 00:03:52,109
-with b
+00:03:58,600 --> 00:04:02,100
+and it's quite challenging because
+they have to manually control the slides,
 
 68
-00:03:52,109 --> 00:03:54,699
-format sas we all know
+00:04:02,200 --> 00:04:05,400
+and then try hard not to bore the audience at the same time.
 
 69
-00:03:54,699 --> 00:03:59,069
-aid tax teddy bear as allowed to speak
-for eighteen minutes and it's quite
+00:04:05,500 --> 00:04:09,200
+But here, Ignite, we all know that we have twenty slides
 
 70
-00:03:59,069 --> 00:04:02,899
-stunning too because they have to
-manually controlled his life and then
+00:04:09,300 --> 00:04:11,700
+and fifteen second autoadvance on each slide,
 
 71
-00:04:02,899 --> 00:04:06,859
-so i had nothing for the audience at the
-same time fact here at night we found
+00:04:11,800 --> 00:04:15,300
+then in total it adds up to five minutes.
 
 72
-00:04:06,859 --> 00:04:08,129
-out that we have
+00:04:15,400 --> 00:04:17,900
+So those golden five minutes,
 
 73
-00:04:08,129 --> 00:04:09,789
-twenty slides
+00:04:18,000 --> 00:04:21,969
+it's, quite short, but we still do
+make a difference in the world.
 
 74
-00:04:09,789 --> 00:04:14,329
-fifteen-second out anthony slide and
-then in total it adds up to you on the
+00:04:22,069 --> 00:04:25,520
+So for example here, this is the map of my talk.
 
 75
-00:04:14,329 --> 00:04:18,669
-five minutes so industrial in five
-minutes
+00:04:25,620 --> 00:04:31,349
+I'm now here at the sixteenth slide,
+so is nothing too much to go.
 
 76
-00:04:18,669 --> 00:04:22,019
-a concert but we still do you make a
-difference in the world
+00:04:31,449 --> 00:04:33,900
+And by the way here's a little trick I can teach you guys.
 
 77
-00:04:22,019 --> 00:04:23,949
-so for example here
+00:04:34,000 --> 00:04:37,000
+So if you really have a lot to say,
 
 78
-00:04:23,949 --> 00:04:25,570
-map of my cock
+00:04:37,100 --> 00:04:39,100
+and fifteen seconds is not enough for you,
 
 79
-00:04:25,570 --> 00:04:27,800
-analogy here at the sixteen th
+00:04:39,200 --> 00:04:40,790
+you have so much to share,
 
 80
-00:04:27,800 --> 00:04:31,399
-like sewing is nothing too much to go so
-i a m
+00:04:40,890 --> 00:04:42,859
+and then you copy and paste.
 
 81
-00:04:31,399 --> 00:04:35,909
-and by the way has another trick i can't
-eat you guys to if you really have
+00:04:42,959 --> 00:04:47,100
+So you make the same... you make the same slide twice,
 
 82
-00:04:35,909 --> 00:04:37,069
-enough to stay
+00:04:47,200 --> 00:04:48,929
+and so, as you can see,
 
 83
-00:04:37,069 --> 00:04:39,460
-and fifteen seconds is not enough for
-you
+00:04:49,029 --> 00:04:51,400
+this map is staying here for a little bit long.
 
 84
-00:04:39,460 --> 00:04:40,840
-soon this year
+00:04:51,600 --> 00:04:52,809
+So this is the little trick.
 
 85
-00:04:40,840 --> 00:04:42,909
-and then you copy and paste
+00:04:52,909 --> 00:04:55,700
+So, um... these are the four topics we'll have today
 
 86
-00:04:42,909 --> 00:04:47,809
-several you make this thing al you make
-the same flight i've hyphen and so as
+00:04:55,800 --> 00:05:00,000
+So we have great speakers to introduce us arts,
 
 87
-00:04:47,809 --> 00:04:48,979
-you can see
+00:05:00,100 --> 00:05:03,220
+livestyle and Earth, travel, and finally dreams.
 
 88
-00:04:48,979 --> 00:04:50,510
-this map is staying here
+00:05:03,320 --> 00:05:05,800
+So, this is your first Ignite talk tonight,
 
 89
-00:04:50,510 --> 00:04:52,859
-for let alone surface electric
+00:05:05,900 --> 00:05:09,509
+and now it's your turn to come up the stage and enlighten us.
 
 90
-00:04:52,859 --> 00:04:57,809
-so am these are the parts hopping to
-have today so we have drake's decreased
+00:05:09,609 --> 00:05:12,079
+and remember we all have to have fun tonight.
 
 91
-00:04:57,809 --> 00:05:00,240
-introduces us to introduces arts
-
-92
-00:05:00,240 --> 00:05:01,370
-but senators
-
-93
-00:05:01,370 --> 00:05:03,270
-travel and finally drinks
-
-94
-00:05:03,270 --> 00:05:06,490
-so and this is your first again talk
-tonight and
-
-95
-00:05:06,490 --> 00:05:09,559
-now it's starting to come on stage in my
-tennis
-
-96
-00:05:09,559 --> 00:05:12,689
-and remember we all have to have fun
-tonight paint chip
+00:05:12,179 --> 00:05:12,800
+Thank you!
 

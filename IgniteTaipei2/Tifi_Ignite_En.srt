@@ -1,0 +1,381 @@
+1
+00:00:05,200 --> 00:00:07,000
+Good evening everyone.	
+
+2
+00:00:14,800 --> 00:00:18,000
+Good evening everyone,
+welcome to Ignite Taipei 2.
+
+3
+00:00:18,100 --> 00:00:24,900
+I am really honored to see
+so many people here tonight.
+
+4
+00:00:25,000 --> 00:00:28,300
+Before we begin,
+
+5
+00:00:28,400 --> 00:00:33,200
+I would like to demonstrate an Ignite talk
+
+6
+00:00:33,300 --> 00:00:36,000
+to let everyone know what Ignite is.
+
+7
+00:00:36,500 --> 00:00:38,359
+Let’s go!
+
+8
+00:00:50,500 --> 00:00:57,000
+I am your host tonight, Tifi.
+
+9
+00:00:57,300 --> 00:01:01,100
+I am English major at the Fu Jen University.
+
+10
+00:01:01,200 --> 00:01:03,400
+Nice to meet you all
+
+11
+00:01:04,000 --> 00:01:09,500
+Now allow me to introduce you Ignite Taipei
+
+
+12
+00:01:15,000 --> 00:01:18,700
+First, our slogan is:
+
+13
+00:01:18,800 --> 00:01:20,600
+Enlighten us, but make it quick.
+
+14
+00:01:20,700 --> 00:01:23,000
+We want to be inspired instantly.
+
+15
+00:01:23,100 --> 00:01:27,300
+If anyone is not familiar with the word 'ignite'
+It means to set something on fire
+
+16
+00:01:27,400 --> 00:01:29,800
+We want to light up our inspiration instantly
+
+17
+00:01:29,900 --> 00:01:34,600
+Many people have asked me
+What is the difference between Ignite and TED?
+
+18
+00:01:34,700 --> 00:01:37,000
+Don't they both host many lectures?
+Are the lectures different?
+
+19
+00:01:37,100 --> 00:01:41,200
+Are the lectures different?
+
+20
+00:01:41,300 --> 00:01:45,300
+Well, does anyone not heard of TED?
+
+21
+00:01:47,000 --> 00:01:48,300
+The first difference is time control.
+
+22
+00:01:48,400 --> 00:01:51,000
+An Ignite talk has only 5 minutes.
+
+23
+00:01:51,100 --> 00:01:52,900
+With 20 Powerpoint slides
+
+24
+00:01:53,000 --> 00:01:54,800
+Each auto-advance in 15 seconds
+
+25
+00:01:54,900 --> 00:01:58,000
+So it only takes one evening to host an Ignite event
+
+26
+00:01:58,100 --> 00:02:02,800
+All the many talks will fit into one evening
+
+27
+00:02:02,900 --> 00:02:05,100
+No matter you like it or want to fall asleep
+
+28
+00:02:05,200 --> 00:02:07,200
+5 minutes will past fast
+
+29
+00:02:07,300 --> 00:02:10,300
+If you like the lectures
+
+30
+00:02:10,400 --> 00:02:12,400
+Please make good use of the 5 minutes
+
+31
+00:02:12,500 --> 00:02:14,000
+It's not much
+
+32
+00:02:16,000 --> 00:02:17,500
+The second difference is speakers.
+
+33
+00:02:17,600 --> 00:02:20,700
+Does anybody not know who this person is?
+
+34
+00:02:20,800 --> 00:02:21,800
+Who doesn't know?
+
+35
+00:02:22,400 --> 00:02:25,500
+He is Steve Jobs, founder of Apple.
+
+36
+00:02:25,600 --> 00:02:28,300
+And the person on the right? Anonymous. 
+
+37
+00:02:35,700 --> 00:02:38,600
+What I want to say is,
+Everybody can be a speaker at Ignite.
+
+38
+00:02:38,700 --> 00:02:41,200
+If you are interested in sharing
+
+39
+00:02:41,300 --> 00:02:43,300
+You can come up here and speak.
+
+40
+00:02:43,400 --> 00:02:45,800
+Even for Steve Jobs would get just 5 minutes
+
+41
+00:02:47,500 --> 00:02:48,700
+The third difference, topics.
+
+42
+00:02:48,900 --> 00:02:55,000
+TED focuses mainly on technology, entertainment and design
+
+43
+00:02:55,100 --> 00:02:59,000
+All those three topics.
+
+44
+00:03:04,500 --> 00:03:07,200
+But Ignite welcomes all kinds of topics
+
+45
+00:03:07,300 --> 00:03:08,300
+Any topic,
+
+46
+00:03:08,400 --> 00:03:14,000
+such as, how to perform well on tests,
+
+47
+00:03:14,100 --> 00:03:17,300
+or how to communicate more efficiently
+
+48
+00:03:17,400 --> 00:03:19,500
+Whatever you like
+
+49
+00:03:19,600 --> 00:03:22,700
+So Ignite Taipei wants to enlighten people
+
+50
+00:03:22,800 --> 00:03:25,700
+To inspire people in life
+
+51
+00:03:25,800 --> 00:03:28,500
+From things they have not expected or experienced before
+
+52
+00:03:28,600 --> 00:03:33,500
+To inspire you through the talks
+
+53
+00:03:33,600 --> 00:03:37,000
+We organized Ignite in Taipei because...
+
+54
+00:03:37,100 --> 00:03:40,900
+Anybody have an idea?
+
+55
+00:03:43,100 --> 00:03:48,600
+Okay, I'll tell you.
+
+56
+00:03:48,700 --> 00:03:50,000
+First, we want drinks.
+
+57
+00:03:50,100 --> 00:03:55,100
+We think people who like beer or coke
+Are those who like the relaxed atmosphere
+
+58
+00:03:55,200 --> 00:03:58,700
+We can have fun and be happy
+
+59
+00:03:58,800 --> 00:04:04,800
+And attend the event with a good mood
+
+60
+00:04:04,900 --> 00:04:10,800
+Second, we welcome people from everywhere. 
+
+61
+00:04:10,900 --> 00:04:12,500
+We want you to join us
+
+62
+00:04:12,600 --> 00:04:15,500
+Regardless of your age, gender or background 
+
+63
+00:04:15,600 --> 00:04:20,300
+We give you something if you show up tonight
+
+64
+00:04:20,400 --> 00:04:22,600
+Third, we want to create connections. 
+
+65
+00:04:22,700 --> 00:04:26,600
+At Ignite, you meet people from different walks of life. 
+
+66
+00:04:26,700 --> 00:04:30,700
+You brainstorm together and create new thoughts
+
+67
+00:04:30,800 --> 00:04:33,700
+Thus the connections are formed
+
+68
+00:04:33,800 --> 00:04:35,700
+And we can get to know more people 
+
+69
+00:04:35,800 --> 00:04:40,700
+Last, Ignite Taipei is special because 
+We have both English and Chinese versions 
+
+70
+00:04:40,800 --> 00:04:44,800
+We had Ignite Taipei 1 in English this June
+
+71
+00:04:44,900 --> 00:04:47,200
+Ignite Taipei 2 in Chinese
+
+72
+00:04:47,300 --> 00:04:50,200
+And the coming up Ignite Taipei 3 in English this December 
+
+73
+00:04:50,300 --> 00:04:52,700
+We will host Ignite events constantly in the future
+
+74
+00:04:52,800 --> 00:04:56,600
+The next ignite will be in English,
+and I hope you all will attend that as well!
+
+75
+00:05:06,000 --> 00:05:11,800
+Besides Ignite Taipei, there's also
+Ignite Seattle, Ignite Singapore...
+
+76
+00:05:11,900 --> 00:05:14,000
+Ignite is everywhere
+
+77
+00:05:14,100 --> 00:05:22,700
+So you have a lot of opportunities to see Ignite
+
+78
+00:05:22,800 --> 00:05:29,000
+Before we start, I would like to remind you
+to switch your phones to silent
+
+79
+00:05:29,100 --> 00:05:33,000
+And to speak at low volume 
+
+80
+00:05:33,100 --> 00:05:35,700
+Please follow the above two requirements
+
+81
+00:05:35,800 --> 00:05:39,500
+And, please watch your little matches
+
+82
+00:05:39,600 --> 00:05:42,600
+Once you hear something interesting
+
+83
+00:05:42,700 --> 00:05:44,400
+or something new
+
+84
+00:05:44,500 --> 00:05:46,000
+Light them up
+
+85
+00:05:46,100 --> 00:05:52,000
+To have a flame, and make it into a big fire
+
+86
+00:05:52,100 --> 00:05:54,500
+You can contact us by this email address
+
+87
+00:05:54,600 --> 00:05:59,900
+If you are interested in being a speaker to share
+
+88
+00:06:00,000 --> 00:06:01,300
+Send us an email
+
+89
+00:06:01,400 --> 00:06:04,400
+And we also welcome your advice
+
+90
+00:06:06,800 --> 00:06:12,300
+So, nice meeting you all tonight
+
+91
+00:06:14,500 --> 00:06:16,400
+We are the organizers tonight
+
+92
+00:06:20,000 --> 00:06:24,373
+Thank you for coming, have a great night! 
+Thank you!
+
